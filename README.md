@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/jadav104/jadav104/main/assets/assetsdark.svg.svg" alt="Jadav Shivam A">## Hi there 👋
+
 
 <!--
 **jadav104/jadav104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
