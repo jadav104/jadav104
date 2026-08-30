@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/jadav104/jadav104/main/assets/dark_animated.svg" alt="Jadav Shivam A">
-
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jadav104/jadav104/output/dist/snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jadav104/jadav104/output/dist/snake-light.svg"> <img src="https://raw.githubusercontent.com/jadav104/jadav104/output/dist/snake-dark.svg" alt="Contribution snake"> </picture>
 <!--
 **jadav104/jadav104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
